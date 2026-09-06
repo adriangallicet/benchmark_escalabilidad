@@ -6,8 +6,6 @@ Este repositorio forma parte del proyecto **Plataforma IoT**, desarrollado como 
 
 <img src="img/diagrama.jfif" alt="Diagrama" style="max-width: 600px; width: 80%;">
 
----
-
 ## Demo
 
 ![Ejecución del benchmark](./vid/muestra.gif)
