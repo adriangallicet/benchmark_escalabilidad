@@ -1,0 +1,5 @@
+n;conectados;tasa_exito_conexion_pct;tiempo_conexion_medio_ms;tack_media_ms;tack_p95_ms;tack_tasa_perdida_pct;tiempo_reconexion_masiva_ms
+5;5;100.0;24;105.3;116;0.0;1016
+10;10;100.0;7;112.0;140;0.0;1016
+20;20;100.0;11;108.7;130;0.0;1024
+50;50;100.0;28;106.4;115;0.0;1047
