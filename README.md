@@ -4,7 +4,7 @@ Mide cómo se comporta el broker MQTT (EMQX) cuando aumenta la cantidad de conex
 
 Este repositorio forma parte del proyecto **Plataforma IoT**, desarrollado como trabajo de tesis de Ingeniería en Telecomunicaciones. El repositorio principal funciona como punto de acceso a la documentación general y a los distintos componentes del sistema: 🔗 https://github.com/adriangallicet/tesis-plataforma-iot
 
-<img src="img/diagrama.jfif" alt="Diagrama" style="max-width: 600px; width: 80%;">
+<img src="img/diagrama.jfif" alt="Diagrama">
 
 ## Demo
 
