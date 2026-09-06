@@ -10,7 +10,7 @@ Este repositorio forma parte del proyecto **Plataforma IoT**, desarrollado como 
 
 ## Demo
 
-[Video de demostración](./vid/muestra.mp4)
+![Ejecución del benchmark](./vid/muestra.gif)
 
 ## Objetivo
 
